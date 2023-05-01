@@ -1,4 +1,4 @@
-baseURL: https://www.kreedzt.com/
+baseURL: "https://www.kreedzt.com/"
 languageCode: "en-us"
 title: "Kreedzt's Index Page"
 theme: "PaperMod"
@@ -41,3 +41,9 @@ params:
     #        url: "<link>"
     #    - name: "<platform 2>"
     #        url: "<link2>"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
