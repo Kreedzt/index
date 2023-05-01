@@ -1,0 +1,25 @@
+baseURL: https://www.kreedzt.com/
+languageCode: "en-us"
+title: "Kreedzt's Index Page"
+theme: "PaperMod"
+
+params:
+    profileMode:
+        enabled: true
+        title: "<Title>" # optional default will be site title
+        subtitle: "Kreedzt's Index Page"
+        #imageUrl: "<image link>" # optional
+        #imageTitle: "<title of image as alt>" # optional
+        imageWidth: 120 # custom size
+        imageHeight: 120 # custom size
+        buttons:
+            - name: Blog
+              url: "https://blog.kreedzt.com/"
+            - name: Github
+              url: "https://github.com/Kreedzt"
+
+    #socialIcons: # optional
+    #    - name: "<platform>"
+    #        url: "<link>"
+    #    - name: "<platform 2>"
+    #        url: "<link2>"
