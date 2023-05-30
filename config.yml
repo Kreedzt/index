@@ -36,7 +36,7 @@ params:
             - name: Github
               url: "https://github.com/Kreedzt"
             - name: RWR Imba Server Doc
-              url: "https://kreedzt.github.io/rwr-imba-server-doc/"
+              url: "https://rwr-imba-server-doc.kreedzt.com/"
 
     #socialIcons: # optional
     #    - name: "<platform>"
