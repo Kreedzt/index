@@ -37,6 +37,8 @@ params:
               url: "https://github.com/Kreedzt"
             - name: RWR Imba Server Doc
               url: "https://rwr-imba-server-doc.kreedzt.com/"
+            - name: RWRS Another Page
+              url: "https://rwrs-another-page.kreedzt.com/"
 
     #socialIcons: # optional
     #    - name: "<platform>"
