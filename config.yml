@@ -38,7 +38,7 @@ params:
             - name: RWR Imba Server Doc
               url: "https://rwr-imba-server-doc.kreedzt.com/"
             - name: RWRS Another Page
-              url: "https://rwrs-another-page.kreedzt.com/"
+              url: "https://robin.kreedzt.com/"
 
     #socialIcons: # optional
     #    - name: "<platform>"
